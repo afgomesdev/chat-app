@@ -2,6 +2,6 @@
 
 Into `client/.env` and `server/.env` put the IP to var HOST
 
-Run ```bash yarn``` to client and server
+Run `yarn` to client and server
 
-Run ```bash yarn dev``` to cliente and server
+Run `yarn dev` to cliente and server
