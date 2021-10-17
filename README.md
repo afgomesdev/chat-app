@@ -6,7 +6,7 @@ Run `yarn` to client and server
 
 Run `yarn dev` to cliente and server
 
-###Utils 
+### Utils 
 
   https://github.com/TomDoesTech/Realtime-Chat-Application
 
