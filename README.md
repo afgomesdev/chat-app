@@ -1,6 +1,6 @@
 # chat-app
 
-Into `client/.env` and `server/.env` put the IP to var HOST
+Into `client/.env` and `server/.env` put the IP or localhost to var NEXT_PUBLIC_SOCKET_URL and HOST
 
 Run `yarn` to client and server
 
